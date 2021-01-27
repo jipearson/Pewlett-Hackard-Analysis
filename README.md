@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-![](ph.logo.png)
+![](ph_logo.png)
 ## Overview of Project
 As baby boomers begin to rapidly retire Pewlett Hackard is looking toward the future. They need to determine which positions will need to be filled in the near future. The number of upcoming retirements will leave thousands of job openings. We need to answer the follwoing questions 
 1. who will be retireing in the next few years.
