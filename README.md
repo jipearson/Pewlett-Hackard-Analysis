@@ -12,7 +12,8 @@ Below are the Pewlett Hackard data tables used in this analyais visualized with 
 Who will be retireing in the next few years. 
 - After linking our employees table to our titles table and filtering for our desired results we find that there are 72,458 employees that will be eligible for retirement in the next few years. That's just over 30% of our total workforce. 
 ![](Images/retire_to_total.png)
- 
+- Below are the total soon-to-be retirees by their current title. 
+![](Images/retire_title.png)
 
 
 ## Summary
