@@ -20,4 +20,8 @@ Below are the Pewlett Hackard data tables used in this analyais visualized with 
   - Below are the total potential mentors by their current title. AGAIN Senior Engineers and Senior Staffers make up the majority of the group, this should help bridge the training gap.              
 ![](Images/potential_mentors.png)
 
+- I suggest based on the volume of new hires that we will have to on board in the next few years that we look into working with a 3rd party HR group to help us find the best available tallent and avoid putting additional pressures on our internal team. 
+
+- We should also look into what efficiencies can be gained throguh technology and innovation. Additional tools, resources, training, and process automation could help us significantly reduce the number of positions that will need to be backfilled and have a substantial impact on our long term bottom line. 
+
 ## Summary
