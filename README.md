@@ -5,5 +5,5 @@ As baby boomers begin to rapidly retire Pewlett Hackard is looking toward the fu
 1. Who will be retireing in the next few years.
 2. How many positions will Pewlett Hackard nee to fill. 
 
-Before we can answer those questions we want to map the relationship of our data tables and visualize them in a Entity Relationship Diagram (ERD). The ERD created for this project is shown below. 
+Below are the Pewlett Hackard data tables and their relationships visualized with a Entity Relationship Diagram (ERD). 
 ![](EmployeeDB.png)
